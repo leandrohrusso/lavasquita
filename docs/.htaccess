@@ -1,0 +1,25 @@
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin *
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    Options -Indexes
+
+    RewriteCond %{HTTP:X-Forwarded-Proto} =http [OR]
+    RewriteCond %{HTTP_HOST} !^www\.lavasquita\.com\.ar$ [NC]
+    RewriteRule ^(.*)$ https://www.lavasquita.com.ar/$1 [L,R=301]
+
+</IfModule>
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/x-icon "access plus 1 year"
+
+    ExpiresByType image/png "access plus 6 month"
+    ExpiresByType image/jpg "access plus 6 month"
+    ExpiresByType image/jpeg "access plus 6 month"
+    ExpiresByType image/svg "access plus 6 month"
+</IfModule>
+

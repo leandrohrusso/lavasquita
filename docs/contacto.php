@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>La Vasquita</title>
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	width: 864px;
+	height: 247px;
+	z-index: 1;
+	left: 404px;
+	top: 31px;
+}
+body,td,th {
+	color: #FFF;
+}
+body {
+	background-color: #5D0909;
+}
+#apDiv2 {
+	position: absolute;
+	width: 55px;
+	height: 20px;
+	z-index: 2;
+	left: 645px;
+	top: 256px;
+}
+#apDiv3 {
+	position: absolute;
+	width: 123px;
+	height: 23px;
+	z-index: 3;
+	left: 724px;
+	top: 255px;
+}
+#apDiv4 {
+	position: absolute;
+	width: 167px;
+	height: 22px;
+	z-index: 4;
+	left: 870px;
+	top: 256px;
+}
+#apDiv5 {
+	position: absolute;
+	width: 103px;
+	height: 23px;
+	z-index: 5;
+	left: 1061px;
+	top: 255px;
+}
+#apDiv6 {
+	position: absolute;
+	width: 507px;
+	height: 384px;
+	z-index: 6;
+	left: 415px;
+	top: 297px;
+}
+#apDiv7 {
+	position: absolute;
+	width: 332px;
+	height: 199px;
+	z-index: 7;
+	left: 941px;
+	top: 298px;
+}
+#apDiv8 {
+	position: absolute;
+	width: 331px;
+	height: 177px;
+	z-index: 8;
+	left: 941px;
+	top: 503px;
+}
+#apDiv9 {
+	position: absolute;
+	width: 142px;
+	height: 43px;
+	z-index: 9;
+	left: 415px;
+	top: 699px;
+}
+#apDiv10 {
+	position: absolute;
+	width: 263px;
+	height: 133px;
+	z-index: 10;
+	left: 415px;
+	top: 742px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-align: justify;
+}
+#apDiv11 {
+	position: absolute;
+	width: 583px;
+	height: 206px;
+	z-index: 11;
+	left: 695px;
+	top: 697px;
+}
+#apDiv12 {
+	position: absolute;
+	width: 264px;
+	height: 36px;
+	z-index: 12;
+	left: 415px;
+	top: 918px;
+}
+#apDiv13 {
+	position: absolute;
+	width: 265px;
+	height: 149px;
+	z-index: 13;
+	left: 415px;
+	top: 958px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-align: justify;
+}
+#apDiv14 {
+	position: absolute;
+	width: 586px;
+	height: 180px;
+	z-index: 14;
+	left: 695px;
+	top: 922px;
+}
+#apDiv15 {
+	position: absolute;
+	width: 266px;
+	height: 35px;
+	z-index: 15;
+	left: 394px;
+	top: 726px;
+}
+#apDiv16 {
+	position: absolute;
+	width: 267px;
+	height: 153px;
+	z-index: 16;
+	left: 410px;
+	top: 300px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+}
+#apDiv17 {
+	position: absolute;
+	width: 500px;
+	height: 241px;
+	z-index: 17;
+	left: 797px;
+	top: 303px;
+}
+#apDiv18 {
+	position: absolute;
+	width: 581px;
+	height: 27px;
+	z-index: 18;
+	left: 713px;
+	top: 946px;
+	text-align: center;
+}
+#apDiv19 {
+	position: absolute;
+	width: 250px;
+	height: 22px;
+	z-index: 19;
+	left: 416px;
+	top: 946px;
+	font-size: 16px;
+}
+#apDiv20 {
+	position: absolute;
+	width: 40px;
+	height: 39px;
+	z-index: 20;
+	left: 660px;
+	top: 940px;
+}
+#apDiv21 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 21;
+	left: 104px;
+	top: 496px;
+}
+#apDiv22 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 22;
+	left: 1443px;
+	top: 496px;
+}
+#apDiv23 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 22;
+	left: 89px;
+	top: 1035px;
+}
+#apDiv24 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 22;
+	left: 1319px;
+	top: 1035px;
+}
+#apDiv25 {	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 22;
+	left: 102px;
+	top: 185px;
+}
+#apDiv26 {	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 22;
+	left: 102px;
+	top: 185px;
+}
+#apDiv27 {
+	position: absolute;
+	width: 287px;
+	height: 86px;
+	z-index: 23;
+	left: 410px;
+	top: 462px;
+}
+#apDiv28 {
+	position: absolute;
+	width: 200px;
+	height: 10px;
+	z-index: 24;
+	left: 407px;
+	top: 552px;
+}
+#apDiv29 {
+	position: absolute;
+	width: 200px;
+	height: 40px;
+	z-index: 25;
+	left: 409px;
+	top: 565px;
+}
+#apDiv30 {
+	position: absolute;
+	width: 200px;
+	height: 40px;
+	z-index: 26;
+	left: 408px;
+	top: 607px;
+}
+#apDiv31 {
+	position: absolute;
+	width: 501px;
+	height: 334px;
+	z-index: 27;
+	left: 797px;
+	top: 564px;
+}
+#apDiv32 {
+	position: absolute;
+	width: 200px;
+	height: 11px;
+	z-index: 28;
+	left: 406px;
+	top: 905px;
+}
+#apDiv33 {
+	position: absolute;
+	width: 200px;
+	height: 13px;
+	z-index: 29;
+	left: 407px;
+	top: 1001px;
+}
+#apDiv34 {
+	position: absolute;
+	width: 374px;
+	height: 247px;
+	z-index: 30;
+	left: 408px;
+	top: 651px;
+}
+#apDiv35 {
+	position: absolute;
+	width: 336px;
+	height: 30px;
+	z-index: 31;
+	left: 89px;
+	top: 205px;
+}
+#apDiv36 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 31;
+}
+</style>
+</head>
+
+<body>
+<div id="apDiv1"><a href="/"><img src="Imagenes/logo.png" width="900" height="255" alt="logo" /></a></div>
+<div id="apDiv2"><a href="/"><img src="Imagenes/BOTON1.png" width="45" height="20" alt="inicio" /></a></div>
+<div id="apDiv3"><a href="nosotros.php"><img src="Imagenes/BOTON2.png" width="117" height="20" alt="nosotros" /></a></div>
+<div id="apDiv4"><a href="productos.php"><img src="Imagenes/BOTON3.png" width="162" height="20" alt="productos" /></a></div>
+<div id="apDiv5"><img src="Imagenes/BOTON4.png" width="95" height="19" alt="contacto" /></div>
+<div id="apDiv16">
+  <p><img src="Imagenes/contacto1.png" width="249" height="126" /></p>
+</div>
+<div id="apDiv17"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3344.395186586385!2d-63.49268198436008!3d-33.04606128089166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ce86a6ed64d9a5%3A0x92aa4b51649ad335!2sL%C3%A1cteos+%22La+Vasquita%22!5e0!3m2!1ses!2sar!4v1478784191916" width="500" height="241" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+<div id="apDiv18">Todos los derechos reservados DON RECA SRL</div>
+<div id="apDiv19">Seguí a Lácteos La Vasquita en: </div>
+<div id="apDiv20"><a href="https://www.facebook.com/LaVasquitaLacteos"><img src="Imagenes/logo-facebook.png" width="31" height="31" alt="facebook" /></a></div>
+<div id="apDiv21"><img src="Imagenes/Arte-en-quesos-vertical.png" alt="" width="128" height="411" /></div>
+<div id="apDiv22"><img src="Imagenes/Arte-en-quesos-vertical.png" alt="" width="128" height="411" /></div>
+<div id="apDiv27"><a href="mailto:info@lavasquita.com.ar"><img src="Imagenes/contacto2.png" width="367" height="76" /></a></div>
+<div id="apDiv28"><img src="Imagenes/linea.png" width="892" height="5" /></div>
+<div id="apDiv29"><img src="Imagenes/contacto3.png" width="374" height="37" /></div>
+<div id="apDiv30"><img src="Imagenes/contacto4.png" width="373" height="36" /></div>
+<div id="apDiv31"><img src="Imagenes/DSC_1184.jpg" width="500" height="332" /></div>
+<div id="apDiv32"><img src="Imagenes/linea.png" width="892" height="5" /></div>
+<div id="apDiv33"><img src="Imagenes/linea.png" width="892" height="5" /></div>
+<div id="apDiv34"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3344.7557824920636!2d-63.50887063322488!3d-33.03656399044721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDAyJzExLjYiUyA2M8KwMzAnMjYuNCJX!5e0!3m2!1ses!2sus!4v1478785633937" width="374" height="247" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+</body>
+</html>
